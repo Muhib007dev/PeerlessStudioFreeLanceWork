@@ -11,9 +11,9 @@ export class Footer extends Component {
                         <div class="row">
                             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.3s" id="address">
                                 <p>Workarea</p>
-                                <h4>8 Rockville Avenue</h4>
-                                <h4>Southaven</h4>
-                                <h4>MS 97545 7954</h4>
+                                <h4>Will update soon</h4>
+                                <h4>...........</h4>
+                                <h4>In progress</h4>
 
                                 <br /><br />
                             </div>
@@ -34,7 +34,7 @@ export class Footer extends Component {
 
                             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.5s" id="mail">
                                 <p>Say Hello</p>
-                                <h4>contact@10ventures.com</h4>
+                                <h4>muhib.shaikh313@gmail.com</h4>
 
                                 <br /><br />
                             </div>
